@@ -12,5 +12,4 @@ Latest Repositories
 
 ### Follow Me
 [![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=00648B)](https://vk.com/zitraxsmode)
-
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=00648B)](https://t.me/serjasum)
