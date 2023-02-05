@@ -1,8 +1,10 @@
 ![Header](https://github.com/summoner1904/summoner1904/blob/main/assets/summoner1904.gif)
 
-## Я - начинающий Python Developer. Живу в России. Проектов на данный момент у меня пока что мало. 
+## Я - начинающий Python Developer. Живу в России. Проектов на данный момент у меня пока что мало ;(
 
-Latest Repositories 
+## Последние проекты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=summoner1904&repo=GenPC_Flask)](https://github.com/summoner1904/GenPC_Flask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=summoner1904&repo=TelegramBotGameShop)](https://github.com/summoner1904/TelegramBotGameShop)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
