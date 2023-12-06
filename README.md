@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/summoner1904.gif" alt="animated" />
 </p>
-Я - начинающий Python Developer. Живу в России. Проектов на данный момент у меня пока что мало ;(
 
 ## Последние проекты
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=summoner1904&repo=GenPC_Flask)](https://github.com/summoner1904/GenPC_Flask)
